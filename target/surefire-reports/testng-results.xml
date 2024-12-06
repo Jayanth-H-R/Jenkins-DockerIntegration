@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T10:16:15 IST" name="All Test Suite" finished-at="2024-12-06T10:18:00 IST" duration-ms="104246">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T10:16:15 IST" name="End to End Test" finished-at="2024-12-06T10:18:00 IST" duration-ms="104246">
+      <class name="com.demoguru99.tests.LoginTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.LoginTest@561b6512]" started-at="2024-12-06T10:17:11 IST" name="configBefore" finished-at="2024-12-06T10:17:16 IST" duration-ms="4390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.demoguru99.tests.LoginTest@561b6512]" started-at="2024-12-06T10:17:16 IST" name="verifyLogin" finished-at="2024-12-06T10:17:18 IST" duration-ms="1944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.LoginTest@561b6512]" started-at="2024-12-06T10:17:18 IST" name="configAfter" finished-at="2024-12-06T10:17:18 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.LoginTest -->
+      <class name="com.demoguru99.tests.RadioAndCheckTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.RadioAndCheckTest@1757cd72]" started-at="2024-12-06T10:17:24 IST" name="configBefore" finished-at="2024-12-06T10:17:29 IST" duration-ms="4360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="checkBoxAndRadio()[pri:0, instance:com.demoguru99.tests.RadioAndCheckTest@1757cd72]" started-at="2024-12-06T10:17:29 IST" name="checkBoxAndRadio" finished-at="2024-12-06T10:17:30 IST" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxAndRadio -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.RadioAndCheckTest@1757cd72]" started-at="2024-12-06T10:17:30 IST" name="configAfter" finished-at="2024-12-06T10:17:30 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.RadioAndCheckTest -->
+      <class name="com.demoguru99.tests.ToolTipTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.ToolTipTest@445b295b]" started-at="2024-12-06T10:17:30 IST" name="configBefore" finished-at="2024-12-06T10:17:34 IST" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyToolTip()[pri:0, instance:com.demoguru99.tests.ToolTipTest@445b295b]" started-at="2024-12-06T10:17:34 IST" name="verifyToolTip" finished-at="2024-12-06T10:17:44 IST" duration-ms="9971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToolTip -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.ToolTipTest@445b295b]" started-at="2024-12-06T10:17:44 IST" name="configAfter" finished-at="2024-12-06T10:17:45 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.ToolTipTest -->
+      <class name="com.demoguru99.tests.UploadFileTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.UploadFileTest@49e5f737]" started-at="2024-12-06T10:17:45 IST" name="configBefore" finished-at="2024-12-06T10:17:49 IST" duration-ms="4530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyUpload()[pri:0, instance:com.demoguru99.tests.UploadFileTest@49e5f737]" started-at="2024-12-06T10:17:49 IST" name="verifyUpload" finished-at="2024-12-06T10:18:00 IST" duration-ms="10512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpload -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.UploadFileTest@49e5f737]" started-at="2024-12-06T10:18:00 IST" name="configAfter" finished-at="2024-12-06T10:18:00 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.UploadFileTest -->
+      <class name="com.demoguru99.tests.MovieDemoTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.MovieDemoTest@2e377400]" started-at="2024-12-06T10:17:18 IST" name="configBefore" finished-at="2024-12-06T10:17:23 IST" duration-ms="5157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyDemoMovie()[pri:0, instance:com.demoguru99.tests.MovieDemoTest@2e377400]" started-at="2024-12-06T10:17:23 IST" name="verifyDemoMovie" finished-at="2024-12-06T10:17:24 IST" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDemoMovie -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.MovieDemoTest@2e377400]" started-at="2024-12-06T10:17:24 IST" name="configAfter" finished-at="2024-12-06T10:17:24 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.MovieDemoTest -->
+      <class name="com.demoguru99.tests.ChooseFileTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.ChooseFileTest@f79e]" started-at="2024-12-06T10:16:16 IST" name="configBefore" finished-at="2024-12-06T10:16:20 IST" duration-ms="4449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyChooseFile()[pri:0, instance:com.demoguru99.tests.ChooseFileTest@f79e]" started-at="2024-12-06T10:16:20 IST" name="verifyChooseFile" finished-at="2024-12-06T10:17:02 IST" duration-ms="41674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyChooseFile -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.ChooseFileTest@f79e]" started-at="2024-12-06T10:17:02 IST" name="configAfter" finished-at="2024-12-06T10:17:02 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.ChooseFileTest -->
+      <class name="com.demoguru99.tests.DeleteCustomerTest">
+        <test-method is-config="true" signature="configBefore()[pri:0, instance:com.demoguru99.tests.DeleteCustomerTest@7494f96a]" started-at="2024-12-06T10:17:02 IST" name="configBefore" finished-at="2024-12-06T10:17:06 IST" duration-ms="4367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBefore -->
+        <test-method signature="verifyDeleteCustomer()[pri:0, instance:com.demoguru99.tests.DeleteCustomerTest@7494f96a]" started-at="2024-12-06T10:17:06 IST" name="verifyDeleteCustomer" finished-at="2024-12-06T10:17:11 IST" duration-ms="4579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCustomer -->
+        <test-method is-config="true" signature="configAfter()[pri:0, instance:com.demoguru99.tests.DeleteCustomerTest@7494f96a]" started-at="2024-12-06T10:17:11 IST" name="configAfter" finished-at="2024-12-06T10:17:11 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfter -->
+      </class> <!-- com.demoguru99.tests.DeleteCustomerTest -->
+    </test> <!-- End to End Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
